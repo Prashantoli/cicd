@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         - name: PRINT A TEST MESSAGE
-          run: echo"HELLO from $GITHUB_ACTION!" 
+          run: echo "HELLO from $GITHUB_ACTION!" 
